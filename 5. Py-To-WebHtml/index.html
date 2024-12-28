@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>To Web</title>
+</head>
+<body>
+    <h1>Monitoring Air</h1>
+    <div class="container">
+        <div class="box" id="water-level-box">
+            <h3>Tinggi Air</h3>
+            <p id="water-level">{{ water_level }}</p>
+        </div>
+        <div class="box" id="temperature-box">
+            <h3>Suhu</h3>
+            <p id="temperature">{{ temperature }}</p>
+        </div>
+    </div><br>
+
+    <h2>Lampu</h2>
+    <div class="button-container">
+        <button id="on-button">Nyala</button>
+        <button id="off-button">Mati</button>
+    </div><br>
+
+    <h2>Pakan</h2>
+    <div class="button-container">
+        <button id="pakan">Kasih Makan</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
