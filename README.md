@@ -2,7 +2,7 @@
 
 This repository contains various materials and projects used for learning Python. The main content comes from an **open class** on YouTube, which can be accessed through the following playlist:
 
-- **YouTube Playlist - Kelas Terbuka **: [Learn Python via YouTube](https://www.youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY)
+- **YouTube Playlist - Kelas Terbuka**: [Learn Python via YouTube](https://www.youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY)
 
 In addition to the class materials, this repository also includes code written during a **Skilvul Bootcamp**, as well as several projects discovered on social media that are useful for enhancing programming skills.
 
